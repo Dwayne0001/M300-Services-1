@@ -1,5 +1,4 @@
 # M300-Dokumentation
-============
 ### Verzeichnis
 * [LB1]
 * [LB2]
@@ -45,9 +44,11 @@ K5
 * Kreativität
 * Komplexität
 * Umfang
+
 Umsetzung eigener Ideen
 * Cloud Integration
 * Übungsdokumentation als Vorlage für Modul-Unterlagen erstellt
+
 Persönliche Lernentwicklung
 * Vergleich Vorwissen - Wissenzuwachs
 * Reflexion
