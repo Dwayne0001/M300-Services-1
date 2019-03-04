@@ -19,15 +19,19 @@ K1
 
 ![Sublime](Sublime.png)
 * Git-Client
- 
+
 ![Git-Client](git_client.png)
 
 K2
 * [GitHub-Account ist erstellt](https://github.com/ViV0rtex/)
 * Git-Client wurde verwendet (Bild)
-![Git-Client](Git_Client.png)
+![git_client](git_client.png)
+
+![git_client_finish](git_client_finish.png)
 * [Dokumentation ist als Mark Down vorhanden](https://github.com/ViV0rtex/M300-Services/blob/master/README.md)
-* Sublime - Mark Down Editor ausgewählt und eingerichtet
+* [Sublime - Mark Down Editor ausgewählt und eingerichtet](https://www.sublimetext.com/3)
+![Sublime](Sublime.png)
+
 * Wichtige Lernschritte sind dokumentiert
 
 K3
