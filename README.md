@@ -44,7 +44,7 @@ K3
 K4
 * Firewall eingerichtet ink. Regeln
 * Benutzer und Rechtevergabe ist eingerichtet
-*Zugang mit SSH-Tunnel abgesichert
+* Zugang mit SSH-Tunnel abgesichert
 * Sicherheitsmassnahmen sidn dokumentiert
 
 K5 
@@ -58,7 +58,9 @@ Umsetzung eigener Ideen
 
 Persönliche Lernentwicklung
 * Vergleich Vorwissen - Wissenzuwachs
+Ich kannte bereits viele Linux Befehle, aber mit der Docker/Vagrant und Git Umgebungen zu arbeiten wahr für mich eine neue und lehrreiche Erfahrung. Ich habe gelernt wie nützlich die Provisionierung sein kann, bei der Automatisierung und Änderung von VMs. Ausserdem habe ich nie zuvor mit Markdown gearbeitet und konnte daher auch einiges Lernen, ich hätte gedacht es wäre viel schwieriger aber mit ein wenig Übung kann man es auf einem dezenten Niveau beherrschen.
 * Reflexion
+Wenn ich dieses Projekt noch einmal durchführen müsste hätte ich dies von einem Linux OS aus gemacht, da dies weniger aufwand betreibt um die Umgebung zum laufen zu bekommen oder zumindest eine neuere Version von Windows als W7. Ansonsten denke ich ist es relativ gut gelaufen und daher habe ich auch keine grösseren Verbesserungsvorschläge(Alles ausser die Installation der Umgebung verlief nach Plan). 
 
 ***
 LB3
