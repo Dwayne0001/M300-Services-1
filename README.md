@@ -38,6 +38,7 @@ K3
 * Bestehende VM aus Vagrant-Cloud einrichten
 ![Vagrant VM](Vagrant_VM.png)
 * Kennt die Vagrant-Befehle
+
 | Befehl          | Erklärung                                                                   |
 |-----------------|-----------------------------------------------------------------------------|
 | vagrant init    | Initialisiert eine neue Vagrant-Umgebung, indem es ein Vagrantfile erstellt |
@@ -52,17 +53,22 @@ K3
 | vagrant suspend | Vorübergehendes aussetzen einer Maschine                                    |
 | vagrant version | Gibt die Aktuelle und letzte Vagrant Version aus                            |
 | vagrant reload  | Startet die Vagrant Maschine neu und lädt das neue Vagrantfile              |
+
 * Eingerichtete Umgebung ist dokumentiert (Umgebungsvariablen, Netzwerkplan gezeichnet, Sicherheitsaspekte)
 Siehe fortlaufende Dokumentation
 * Funktionsweise getestet inkl. Dokumentation der Testfälle
-
+![Vagrant Testing 1](Vagrant_testing1.png)
+![Vagrant Testing 2](Vagrant_testing2.png)
 * andere, vorgefertigte vm auf eigenem Notebook aufgesetzt
-
+![Vagrant Web 1](Vagrant_curl_localhost.png)
+![Vagrant Web 2](Vagrant_curl_localhost1.png)
+![Vagrant Web Edit](Vagrant_html_edit.png)
 K4
 * Firewall eingerichtet ink. Regeln
 * Benutzer und Rechtevergabe ist eingerichtet
 * Zugang mit SSH-Tunnel abgesichert
 * Sicherheitsmassnahmen sidn dokumentiert
+![Firewall, Regeln und SSH](FW_Rule_SSH.png)
 
 K5 
 * Kreativität
