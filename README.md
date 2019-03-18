@@ -36,9 +36,26 @@ K2
 
 K3
 * Bestehende VM aus Vagrant-Cloud einrichten
+![Vagrant VM](Vagrant_VM.png)
 * Kennt die Vagrant-Befehle
+| Befehl          | Erklärung                                                                   |
+|-----------------|-----------------------------------------------------------------------------|
+| vagrant init    | Initialisiert eine neue Vagrant-Umgebung, indem es ein Vagrantfile erstellt |
+| vagrant up      | Startet und Provisioniert die Vagrant Umgebung anhand vom Vagrantfile       |
+| vagrant ssh     | Verbindet zu der Maschine via SSH                                           |
+| vagrant status  | Zeigt den Status der Vagrant Maschine an                                    |
+| vagrant destroy | Stoppt und Löscht die Vagrant Maschine                                      |
+| vagrant box     | Verwaltet Boxen (Installation, Löschung)                                    |
+| vagrant login   | Bei Vagrant mit dem Account anmelden                                        |
+| vagrant halt    | Stoppt die Vagrant Maschine                                                 |
+| vagrant resume  | Fortsetzen einer Maschine mit dem "suspended" status                        |
+| vagrant suspend | Vorübergehendes aussetzen einer Maschine                                    |
+| vagrant version | Gibt die Aktuelle und letzte Vagrant Version aus                            |
+| vagrant reload  | Startet die Vagrant Maschine neu und lädt das neue Vagrantfile              |
 * Eingerichtete Umgebung ist dokumentiert (Umgebungsvariablen, Netzwerkplan gezeichnet, Sicherheitsaspekte)
+Siehe fortlaufende Dokumentation
 * Funktionsweise getestet inkl. Dokumentation der Testfälle
+
 * andere, vorgefertigte vm auf eigenem Notebook aufgesetzt
 
 K4
