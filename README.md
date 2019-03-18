@@ -61,7 +61,7 @@ Siehe fortlaufende Dokumentation
 ![Vagrant Testing 2](Vagrant_testing2.png)
 * andere, vorgefertigte vm auf eigenem Notebook aufgesetzt
 ![Vagrant Web 1](Vagrant_curl_localhost.png)
-![Vagrant Web 2](Vagrant_curl_localhost1.png)
+![Vagrant Web 2](Vagrant_curl_Localhost1.png)
 ![Vagrant Web Edit](Vagrant_html_edit.png)
 K4
 * Firewall eingerichtet ink. Regeln
